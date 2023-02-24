@@ -1,0 +1,9 @@
+<root main_tree_to_execute = "MainTree">
+    <BehaviorTree ID="MainTree">
+        <Sequence>
+            <DockingEvent action="ang_pos"/>
+            <!--MinimalPublisher action="down"/-->
+            <!--Camera MaximumDistance= "1"/-->
+        </Sequence>
+    </BehaviorTree>
+</root>
